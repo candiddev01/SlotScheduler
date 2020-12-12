@@ -1,0 +1,2 @@
+# SlotScheduler
+Slots scheduler application
